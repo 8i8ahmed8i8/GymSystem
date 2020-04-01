@@ -1,0 +1,58 @@
+.logo{
+    background-color: black;
+    height: 50px;
+    text-align: center ;
+    color: aliceblue;
+    margin: 0;
+    padding: 0;
+
+}
+.logo h1 {
+  color: aliceblue;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  
+  .button1 {
+    
+    background-color: aliceblue; 
+    color: black; 
+    border: 2px solid #f44336;
+  }
+  .button1:hover {
+    background-color: #f44336;
+    color: aliceblue;
+  }
+  .nav ul {
+    list-style: none;
+    margin: 0;  
+    padding: 0;
+    width: 100%;
+    text-align: center;
+  }
+  .nav li {
+   display: inline-block;
+    margin: 20px;
+  }
+  .nav-link{
+    text-decoration: none;
+    color: white ;
+
+  }
+  .nav{
+    background-color: black;
+  }
+  .nav-link:hover,
+  .nav-link:active{
+    color: #fa923f;
+  }
